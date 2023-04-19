@@ -1,2 +1,0 @@
-print("prasanna")
-print('keerthi')
